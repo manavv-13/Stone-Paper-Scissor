@@ -68,7 +68,3 @@ text-align:center;
     display:inline;
     border-radius:20px;
 }
-#msg:hover{
-    border:1px solid black;
-    cursor:pointer;
-}
